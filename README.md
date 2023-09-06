@@ -1,5 +1,4 @@
-### Hi there 👋
-Yuqi Guo
+# Yuqi Guo
 
 📞 Phone: +1 (315) 863 7375
 
@@ -7,7 +6,7 @@ Yuqi Guo
 
 🌐 GitHub: https://github.com/YuqiGuo105
 
-🎓 Education
+## 🎓 Education
 M.S in Computer Science
 
 🏛 Syracuse University (SU), Syracuse, New York
@@ -24,7 +23,7 @@ B.S in Computer Science
 
 📘 Relevant Courses: Data Structure, Algorithm, Operating System, Database, Computer Network, Human-Centric Interaction, Software Engineering, Mobile Computing, Computer Graphics, Machine Learning
 
-🔧 Technical Skills
+## 🔧 Technical Skills
 Languages: Java, Python, HTML5, Haskell, PHP, MySQL, SQLite, MongoDB, Node.js, C#
 
 Frameworks/Libraries/Platforms: TensorFlow, JUnit, Spring Boot, React, Linux, Git, Vim, AWS, Vue.js
@@ -35,7 +34,7 @@ Proficiencies: Java Web, Android Programming, Agile Projects, OOP, Computer Netw
 
 
 
-💼 Work Experience
+## 💼 Work Experience
 
 CuraStone Corp, Bellevue, WA, United States
 
