@@ -12,7 +12,6 @@ M.S in Computer Science
 
 B.S in Computer Science
 🏛 Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
-📅 09/2017 - 07/2022
 🎖 GPA: 3.46/4, First Class
 📘 Relevant Courses: Data Structure, Algorithm, Operating System, Database, Computer Network, Human-Centric Interaction, Software Engineering, Mobile Computing, Computer Graphics, Machine Learning
 
