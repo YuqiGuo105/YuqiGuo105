@@ -17,7 +17,7 @@ M.S in Computer Science
 
 B.S in Computer Science
 
-🏛 Xi'an Jiaotong-Liverpool University (XJTLU), Suzhou, China
+🏛 University of Liverpool (UoL), Liverpool, UK
 
 🎖 GPA: 3.46/4, First Class
 
