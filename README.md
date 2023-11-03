@@ -5,6 +5,7 @@
 ✉️ Email: yuqi.guo17@gmail.com
 
 🌐 GitHub: https://github.com/YuqiGuo105
+🌐 Personal Blog: https://yuqiguo-blog-fusrtc51w-yuqiguo105.vercel.app
 
 ## 🎓 Education
 M.S in Computer Science
