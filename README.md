@@ -45,8 +45,11 @@ Software Development Engineer Intern
 📅 08/2023 - 12/2023
 
 • Collaborated with a team of software engineers, and scientists to create an app that transforms PDFs into interactive flashcards and study plans through LLM-based AI. 
+
 •	Developed APIs using Spring Boot and DynamoDB on AWS ECS, effectively processing over 5,000 documents in two months. Secured APIs using JWT/Cognito. 
+
 •	Integrated Mockito and JUnit for robust testing, ensuring seamless frontend integration and enhanced user experience. Employed Swagger 2 for API documentation and testing.
+
 •	Implemented Newman E2E tests within GitHub Actions for automated service monitoring and rollback, achieving 99.9% service availability.
 
 
