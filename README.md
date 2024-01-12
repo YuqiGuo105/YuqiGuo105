@@ -6,7 +6,7 @@
 
 🌐 GitHub: https://github.com/YuqiGuo105
 
-🌐 Personal Blog: https://yuqiguo-blog-fusrtc51w-yuqiguo105.vercel.app
+🌐 Personal Blog: https://blog-three-ecru-48.vercel.app
 
 ## 🎓 Education
 M.S in Computer Science
@@ -21,7 +21,7 @@ B.S in Computer Science
 
 🏛 University of Liverpool (UoL), Liverpool, UK
 
-🎖 GPA: 3.46/4, First Class
+🎖 GPA: 3.6/4, First Class
 
 📘 Relevant Courses: Data Structure, Algorithm, Operating System, Database, Computer Network, Human-Centric Interaction, Software Engineering, Mobile Computing, Computer Graphics, Machine Learning
 
@@ -42,17 +42,13 @@ CuraStone Corp, Bellevue, WA, United States
 
 Software Development Engineer Intern
 
-📅 08/2023 - Current
+📅 08/2023 - 12/2023
 
-•	Led the creation of an app transforming PDFs and other materials into interactive flashcards, learning series, and study plans using Spring Boot (following Google Java format) and MongoDB on AWS EC2.
+• Collaborated with a team of software engineers, and scientists to create an app that transforms PDFs into interactive flashcards and study plans through LLM-based AI. 
+•	Developed APIs using Spring Boot and DynamoDB on AWS ECS, effectively processing over 5,000 documents in two months. Secured APIs using JWT/Cognito. 
+•	Integrated Mockito and JUnit for robust testing, ensuring seamless frontend integration and enhanced user experience. Employed Swagger 2 for API documentation and testing.
+•	Implemented Newman E2E tests within GitHub Actions for automated service monitoring and rollback, achieving 99.9% service availability.
 
-•	Developed backend services in accordance with the Technical Requirements Document (TRD). Utilized Mockito and JUnit for stubbing, mocking, and testing services. Implemented Swagger 2 to ensure compatibility with the frontend.
-
-•	Conducted meticulous code reviews on GitHub, ensuring high code quality and consistency before merging branches. Resolved branch conflicts using cherrypick and rebase methods.
-
-•	Conducted End-to-End (E2E) testing for APIs and tested the application's deployment on Docker.
-
-•	Incorporated LLM-based technology via LangChain, enhancing the app's educational capabilities. Further optimized the user experience by developing a pipeline API, streamlining data flow and processes within the application.
 
 <!--
 **YuqiGuo105/YuqiGuo105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
