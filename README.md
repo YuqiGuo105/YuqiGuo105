@@ -38,20 +38,31 @@ Proficiencies: Java Web, Android Programming, Agile Projects, OOP, Computer Netw
 
 ## 💼 Work Experience
 
-CuraStone Corp, Bellevue, WA, United States
+### CuraStone Corp, Bellevue, WA, United States
 
-Software Development Engineer Intern
+Backend Developer Intern
 
 📅 08/2023 - 12/2023
 
-• Collaborated with a team of software engineers, and scientists to create an app that transforms PDFs into interactive flashcards and study plans through LLM-based AI. 
-
-•	Developed APIs using Spring Boot and DynamoDB on AWS ECS, effectively processing over 5,000 documents in two months. Secured APIs using JWT/Cognito. 
+•	Developed an app to convert PDFs into interactive flashcards using Spring Boot and DynamoDB on AWS ECS, effectively processing over 5,000 documents in two months. Secured APIs using JWT/Cognito. 
 
 •	Integrated Mockito and JUnit for robust testing, ensuring seamless frontend integration and enhanced user experience. Employed Swagger 2 for API documentation and testing.
 
 •	Implemented Newman E2E tests within GitHub Actions for automated service monitoring and rollback, achieving 99.9% service availability.
 
+<br>
+
+### Weina Technology Company, Lanzhou, Gansu, China
+
+Backend Developer Intern
+
+📅 09/2021 - 02/2022
+
+•	Developed and maintained backend services using Python Flask framework, ensuring robust and scalable application performance.
+
+•	Led Kubernetes cluster deployment, managing containerized applications for improved scalability and reliability. Implemented load balancing and auto-scaling to ensure high system availability.
+
+•	Utilized Redis for efficient master/slave node status management in Kubernetes, enhancing data synchronization and system resilience.
 
 <!--
 **YuqiGuo105/YuqiGuo105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
