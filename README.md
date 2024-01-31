@@ -34,7 +34,14 @@ Tools: Postman, Docker & Kubernetes, GitHub, Swagger UI
 
 Proficiencies: Java Web, Android Programming, Agile Projects, OOP, Computer Network, Database, Data Mining, Machine Learning and Computer Vision (CV)
 
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,react,nodejs,aws,git,kubernetes,docker,c,vim" />
+  </a>
+   <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,tensorflow,vue,js,androidstudio,github,supabase,firebase,mongodb,mysql" />
+  </a>
+</p>
 
 ## 💼 Work Experience
 
