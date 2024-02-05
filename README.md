@@ -6,7 +6,7 @@
 
 🌐 GitHub: https://github.com/YuqiGuo105
 
-🌐 Personal Blog: https://blog-three-ecru-48.vercel.app
+🌐 Personal Blog: https://www.yuqi.site
 
 ## 🎓 Education
 M.S in Computer Science
