@@ -4,9 +4,9 @@
 
 ✉️ Email: yuqi.guo17@gmail.com
 
-🌐 GitHub: https://github.com/YuqiGuo105
-
 🌐 Personal Blog: https://www.yuqi.site
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20on%20GitHub-blue?logo=github)]([https://github.com/yourusername](https://github.com/YuqiGuo105))
 
 ## 🎓 Education
 M.S in Computer Science
