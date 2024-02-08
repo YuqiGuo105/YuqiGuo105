@@ -6,6 +6,8 @@
 
 🌐 Personal Blog: https://www.yuqi.site
 
+📄 Resume: https://github.com/YuqiGuo105/Resume/blob/main/Yuqi_Guo_Resume.pdf
+
 ## 🎓 Education
 M.S in Computer Science
 
