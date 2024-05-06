@@ -6,6 +6,8 @@
 
 🌐 Personal Blog: https://www.yuqi.site
 
+🔢 LeetCode: [https://leetcode.com/u/Yuqi_Guo/](https://leetcode.com/u/Yuqi_Guo/)
+
 📄 Resume: https://github.com/YuqiGuo105/Resume/blob/main/Yuqi_Guo_Resume.pdf
 
 ## 🎓 Education
