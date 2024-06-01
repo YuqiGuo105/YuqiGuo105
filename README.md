@@ -15,7 +15,7 @@ M.S in Computer Science
 
 🏛 Syracuse University (SU), Syracuse, New York
 
-📅 08/2022 - 05/2024 (Expected)
+📅 08/2022 - 05/2024
 
 🎖 GPA: 3.7
 
