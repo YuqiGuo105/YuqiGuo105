@@ -65,7 +65,7 @@ Backend Developer Intern
 
 Backend Developer Intern
 
-📅 09/2021 - 02/2022
+📅 02/2021 - 02/2022
 
 •	Developed and maintained backend services using Python Flask framework, ensuring robust and scalable application performance.
 
