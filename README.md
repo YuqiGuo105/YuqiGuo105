@@ -63,7 +63,7 @@ Backend Developer Intern
 
 ### Weina Technology Company, Lanzhou, Gansu, China
 
-Backend Developer Intern
+Backend Developer 
 
 📅 02/2021 - 02/2022
 
