@@ -23,7 +23,7 @@ B.S in Computer Science
 
 🏛 University of Liverpool (UoL), Liverpool, UK
 
-🎖 GPA: 3.4/4, First Class
+🎖 GPA: First Class
 
 📘 Relevant Courses: Data Structure, Algorithm, Operating System, Database, Computer Network, Human-Centric Interaction, Software Engineering, Mobile Computing, Computer Graphics, Machine Learning
 
