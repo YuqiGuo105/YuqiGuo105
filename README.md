@@ -17,7 +17,7 @@ M.S in Computer Science
 
 📅 08/2022 - 05/2024
 
-🎖 GPA: 3.7
+🎖 GPA: 3.6
 
 B.S in Computer Science
 
