@@ -5,7 +5,7 @@
 Java/Spring Boot engineer building reliable APIs, event-driven services, cloud-native platforms, and production AI infrastructure.
 
 - **Experience:** <!-- EXPERIENCE:START -->2 years<!-- EXPERIENCE:END --> building backend and cloud systems
-<!-- EXPERIENCE_UPDATED:2026-09 -->
+<!-- EXPERIENCE_UPDATED:2026-10 -->
 - **Core stack:** Java, Python, Spring Boot, Kafka, SQL, AWS, Docker, Kubernetes, OpenSearch, Redis
 - **Portfolio:** [yuqi.site](https://www.yuqi.site)
 
