@@ -11,6 +11,7 @@ Java/Spring Boot engineer building reliable APIs, event-driven services, cloud-n
 
 ## Open Source
 
+- [Google ADK Java #1381](https://github.com/google/adk-java/pull/1381): enabled partial content updates within Gemini Live turns, with backward-compatible APIs and regression tests
 - [Spring AI Alibaba #4491](https://github.com/alibaba/spring-ai-alibaba/pull/4491) — preserved shell sessions across human-in-the-loop resume with thread-isolated recovery and tests
 - [Google ADK Java #923](https://github.com/google/adk-java/pull/923) — fixed linear memory growth and eventual OOM risk in session cleanup
 - [Google LangExtract #385](https://github.com/google/langextract/pull/385) — added isolated retries for transient Gemini failures in parallel extraction
