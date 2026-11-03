@@ -1,5 +1,7 @@
 # Yuqi Guo
 
+[![Profile views](https://www.yuqi.site/api/badge/github-profile)](https://www.yuqi.site)
+
 **Software Engineer at Goldman Sachs · Backend · Distributed Systems · AI Infrastructure**
 
 Java/Spring Boot engineer building reliable APIs, event-driven services, cloud-native platforms, and production AI infrastructure.
