@@ -13,6 +13,7 @@ Java/Spring Boot engineer building reliable APIs, event-driven services, cloud-n
 
 ## Open Source
 
+- [RxJava #8399](https://github.com/ReactiveX/RxJava/pull/8399) — isolated a Flowable `observeOn` race test from parallel test execution, preserving existing assertions
 - [Google ADK Java #1381](https://github.com/google/adk-java/pull/1381), [#923](https://github.com/google/adk-java/pull/923) — enabled partial Gemini Live updates and fixed session-cleanup memory leaks, with regression tests
 - [Spring AI Alibaba #4491](https://github.com/alibaba/spring-ai-alibaba/pull/4491) — preserved shell sessions across human-in-the-loop resume with thread-isolated recovery and tests
 - [Google LangExtract #385](https://github.com/google/langextract/pull/385) — added isolated retries for transient Gemini failures in parallel extraction
